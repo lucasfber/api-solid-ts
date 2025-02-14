@@ -7,3 +7,4 @@ o que e possivel o usuario fazer
 
 #RN
 o usuario so vai poder fazer checkin se tiver a menos de 10m da academia
+algo aqui..
